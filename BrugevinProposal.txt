@@ -1,0 +1,16 @@
+Propuesta:
+
+Objetivo: Clasificación de imágenes.
+Implementar un modelo de aprendizaje automático para hacer inferencia sobre la detección de COVID-19 a partir de imágenes médicas de rayos X de pecho.
+
+Motivación:
+En el último tiempo ha sido importante el diagnóstico de la presencia del virus COVID-19. Sería interesante, a partir de técnicas simples como imágenes de rayos X, permitir predecir si se trata de un paciente con infectado o no
+
+Datos:
+Imágenes extraídas de diferentes sitios
+https://www.kaggle.com/datasets/pranavraikokte/covid19-image-dataset
+https://data.mendeley.com/datasets/dvntn9yhd2/1
+Entre otros.
+
+Implementación:
+Se utilizaran técnicas de clustering, reduccion de dimnesionalidad, redes neuronales profundas y CNN.
